@@ -1,6 +1,6 @@
 language: ruby
 rvm:
 - 2.2
-install: gem install jekyll 
+install: gem install jekyll jekyll-feed
 script: jekyll build
 
