@@ -1,2 +1,1 @@
-# podcast-maker
-generate podcast.xml by Jekyll
+础于Jekyll的podcast.xml生成工程
