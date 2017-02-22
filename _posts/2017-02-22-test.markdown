@@ -1,0 +1,19 @@
+---
+layout:  post
+title: "随便瞎扯淡的一期节目"
+categories:
+    - podcast
+tags:
+    - 扯淡
+author: this.getAuthor
+date: 2017-02-22 11:00
+media: https://bragfoo.oo/podcast/001A.m4a
+ogg_media: https://bragfoo.oo/podcast/001A.ogg
+duration: 01:22:33
+length: 123456789
+subtitle: 
+mediatype: "audio/mpeg"
+
+---
+
+一期随便瞎扯淡的节目
